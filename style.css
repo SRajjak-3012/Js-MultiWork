@@ -1,0 +1,26 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 50px;
+}
+
+.para {
+    background-color: rgb(201, 203, 203);
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    align-items: center;
+}
+
+.first {
+    color: #800080;
+}
+
+.second {
+    color: #FF0000;
+}
